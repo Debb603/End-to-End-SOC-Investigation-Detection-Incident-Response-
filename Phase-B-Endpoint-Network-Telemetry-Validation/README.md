@@ -1,1 +1,1 @@
-# Phase B - Telemetry Pipeline
+# Phase B - Endpoint and Network Telemetry Validation
